@@ -1,2 +1,2 @@
-python aaronsw.py > page.html
-./kindlegen page.html
+python aaronsw.py
+./kindlegen aaronsw.html
