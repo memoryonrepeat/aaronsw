@@ -1,6 +1,4 @@
-Simple script to pull down content from Aaron Schwartz's blog and compile to Kindle ebook
-
-If you don't know who he is, watch [this](https://youtu.be/gpvcc9C8SbM)
+Simple script to pull down content from [Aaron Schwartz](https://youtu.be/gpvcc9C8SbM)'s [blog](http://www.aaronsw.com/weblog/archive) and compile to Kindle ebook
 
 To run: clone then `./run.sh`
 
